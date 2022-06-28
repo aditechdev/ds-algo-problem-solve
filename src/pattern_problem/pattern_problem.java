@@ -23,6 +23,8 @@ public class pattern_problem {
         Scanner sc = new Scanner(System.in);
         int numberOfRow = sc.nextInt();
 
+
+
         for (int n = 1; n <= numberOfRow; n++) {
             for (int m = 1; m <= n; m++) {
                 System.out.print(value + " ");
@@ -30,7 +32,6 @@ public class pattern_problem {
             }
             System.out.println();
         }
-
 /******************
 //        *
 //        * *
