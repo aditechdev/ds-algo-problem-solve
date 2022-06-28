@@ -2,7 +2,7 @@ package pattern_problem;
 
 import java.util.Scanner;
 
-public class pattern_problem {
+public class pattern_problem_half_pyramid {
     public static void main(String[] args) {
   /*Half pyramid Problem
   ***************************************
