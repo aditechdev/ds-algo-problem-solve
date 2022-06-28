@@ -31,12 +31,12 @@ public class pattern_problem {
             System.out.println();
         }
 
-//        ***************************************
+/******************
 //        *
 //        * *
 //        * * *
 //        * * * *
-//        *****************************************
+*********************/
         for (int n = 1; n <= numberOfRow; n++) {
             for (int m = 1; m <= n; m++) {
                 System.out.print("* ");
@@ -44,12 +44,30 @@ public class pattern_problem {
             }
             System.out.println();
         }
+        /*******
+        1
+        1 2
+        1 2 3
+        1 2 3 4
+        *
+        *
+        * *****/
+
+
         for (int n = 1; n <= numberOfRow; n++) {
             for (int m = 1; m <= n; m++) {
                 System.out.print(m+" ");
             }
             System.out.println();
         }
+        /**************************
+          a
+          b c
+          d e f
+          g h i j
+
+        *
+        * *************/
         char ch = 'a';
 
         for (int n = 1; n <= numberOfRow; n++) {
