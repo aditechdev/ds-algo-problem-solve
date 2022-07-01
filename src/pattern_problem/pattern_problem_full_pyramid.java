@@ -1,7 +1,17 @@
+package pattern_problem;
+
 import java.util.Scanner;
 
-public class solve_pyramid {
+public class pattern_problem_full_pyramid {
     public static void main(String[] args) {
+
+
+
+
+
+
+
+//TODO Hour GLass Pattern
         System.out.println("Hello world");
    /*     Hour Glass Problem
         1 2 3 4 5 6 7 8 9
