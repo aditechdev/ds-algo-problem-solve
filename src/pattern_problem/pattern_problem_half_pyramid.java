@@ -102,8 +102,12 @@ public class pattern_problem_half_pyramid {
 
         int row = 1;
         int newValue = 1;
+
+
         while (row <= numberOfRow){
+
             int col = 1;
+
             while (col <= row){
                 System.out.print(newValue + " ");
                 col ++;
