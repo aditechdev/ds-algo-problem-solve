@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/pattern_problem/pattern_problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern_problem/pattern_problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern_problem/pattern_problem_half_pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern_problem/pattern_problem_half_pyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +38,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.pattern_problem">
-    <configuration name="pattern_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern_problem.pattern_problem" />
+  <component name="RunManager" selected="Application.pattern_problem_half_pyramid">
+    <configuration name="pattern_problem_half_pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_problem.pattern_problem_half_pyramid" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
@@ -60,7 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pattern_problem" />
+        <item itemvalue="Application.pattern_problem_half_pyramid" />
         <item itemvalue="Application.solve_pyramid" />
       </list>
     </recent_temporary>

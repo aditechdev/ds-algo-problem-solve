@@ -85,5 +85,33 @@ public class pattern_problem_half_pyramid {
             }
             System.out.println();
         }
+
+//        Useing WHile
+        /*
+        *1
+        *2 3
+        *4 5 6
+        *7 8 9 10
+        *
+        * Logic
+        * There is N rows
+        * Number of rows = no of digits in column
+        * Increment by 1 value
+        *
+        * */
+
+        int row = 1;
+        int newValue = 1;
+        while (row <= numberOfRow){
+            int col = 1;
+            while (col <= row){
+                System.out.print(newValue + " ");
+                col ++;
+                newValue++;
+            }
+            System.out.println();
+            row++;
+        }
+
     }
 }
