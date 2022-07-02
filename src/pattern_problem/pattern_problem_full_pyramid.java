@@ -21,7 +21,7 @@ public class pattern_problem_full_pyramid {
         * followed by i-1 number in decreasing order
         *
         *
-        * For this we have used Airthematic Progression
+        * For this we have used Airethematic Progression
         * eg: 3,7,9,
         * Ti = a + (i-1)d
         * So,
