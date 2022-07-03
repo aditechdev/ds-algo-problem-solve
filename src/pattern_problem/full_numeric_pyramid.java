@@ -27,6 +27,7 @@ public class full_numeric_pyramid {
             }
             value =  value +2;
 
+
             for (int l = value -2; l > i; l--  ){
                 System.out.print(l-1 + " ");
 
