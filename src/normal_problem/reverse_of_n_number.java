@@ -39,6 +39,8 @@ public class reverse_of_n_number {
                 myNum /=10;
             }
             System.out.println(reverseNum);
+            num--;
+
         }
 
 
