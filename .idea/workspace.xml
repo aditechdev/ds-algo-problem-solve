@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid" />
+    <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
+      <change afterPath="$PROJECT_DIR$/src/normal_problem/check_vowel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,13 +37,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.reverse_of_n_number">
-    <configuration name="hour_glass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern_problem.hour_glass" />
+  <component name="RunManager" selected="Application.check_vowel">
+    <configuration name="check_vowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal_problem.check_vowel" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern_problem.*" />
+          <option name="PATTERN" value="normal_problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.check_vowel" />
         <item itemvalue="Application.reverse_of_n_number" />
         <item itemvalue="Application.prime_number_between_number" />
         <item itemvalue="Application.number_of_digit" />
         <item itemvalue="Application.normal_basic_problem" />
-        <item itemvalue="Application.hour_glass" />
       </list>
     </recent_temporary>
   </component>
