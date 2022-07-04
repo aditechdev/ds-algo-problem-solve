@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
-      <change afterPath="$PROJECT_DIR$/src/normal_problem/number_of_digit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/normal_problem/prime_number_between_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.number_of_digit">
+  <component name="RunManager" selected="Application.prime_number_between_number">
     <configuration name="full_numeric_pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern_problem.full_numeric_pyramid" />
       <module name="problem_solve_java" />
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverse_triangle_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern_problem.reverse_triangle_pattern" />
+    <configuration name="prime_number_between_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal_problem.prime_number_between_number" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern_problem.*" />
+          <option name="PATTERN" value="normal_problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prime_number_between_number" />
         <item itemvalue="Application.number_of_digit" />
         <item itemvalue="Application.normal_basic_problem" />
         <item itemvalue="Application.hour_glass" />
         <item itemvalue="Application.full_numeric_pyramid" />
-        <item itemvalue="Application.reverse_triangle_pattern" />
       </list>
     </recent_temporary>
   </component>
