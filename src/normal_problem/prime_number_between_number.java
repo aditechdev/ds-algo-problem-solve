@@ -17,7 +17,6 @@ public class prime_number_between_number {
             if(flag == 0){
                 System.out.println(i);
             }
-            flag = 0;
         }
     }
 }
