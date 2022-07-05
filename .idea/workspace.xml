@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
-      <change afterPath="$PROJECT_DIR$/src/normal_problem/check_vowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/normal_problem/random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/normal_problem/saif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.check_vowel">
+  <component name="RunManager" selected="Application.random">
     <configuration name="check_vowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="normal_problem.check_vowel" />
       <module name="problem_solve_java" />
@@ -47,13 +49,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="normal_basic_problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="normal_basic_problem" />
-      <module name="problem_solve_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal_problem.random" />
+      <module name="problem_solve_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="normal_problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="reverse_of_n_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="normal_problem.reverse_of_n_number" />
       <module name="problem_solve_java" />
@@ -99,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.random" />
         <item itemvalue="Application.check_vowel" />
         <item itemvalue="Application.reverse_of_n_number" />
         <item itemvalue="Application.prime_number_between_number" />
         <item itemvalue="Application.number_of_digit" />
-        <item itemvalue="Application.normal_basic_problem" />
       </list>
     </recent_temporary>
   </component>
