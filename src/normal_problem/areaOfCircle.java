@@ -16,6 +16,17 @@ public class areaOfCircle {
         int ceil = (int) Math.ceil(volumeOfSphere);
         return ceil;
     }
+    public static int gcd(int A, int B) {
+        int gcd = 1;
+        for(int i = A; i>0; i--){
+            if(A % i == 0 && B % i ==0){
+                gcd = i;
+                break;
+            }
+        }
+
+        return gcd;
+    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int radius = sc.nextInt();
@@ -24,6 +35,8 @@ public class areaOfCircle {
         System.out.println(areaOfCircle);
         int volumeOfSphere = solveVolumeOfSphere(radius);
         System.out.println(volumeOfSphere);
+        int gcdOfTwoNumber = gcd(12, 20);
+        System.out.println("GCD: "+gcdOfTwoNumber);
 
     }
 }
