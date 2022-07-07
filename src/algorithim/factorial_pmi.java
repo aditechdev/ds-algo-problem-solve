@@ -3,12 +3,14 @@ package algorithim;
 import java.util.Scanner;
 
 public class factorial_pmi {
+
     public static  int factorialUseingRecusrsion(int A){
       if(A==0) return 1;
 
       int factorial = A*factorialUseingRecusrsion(A-1);
       return factorial;
     }
+
     public static void main(String[] args) {
         /**
          * Recusrion
@@ -24,6 +26,7 @@ public class factorial_pmi {
          */
         Scanner sc = new Scanner(System.in);
         System.out.println(factorialUseingRecusrsion(sc.nextInt()));
+
 
     }
 }
