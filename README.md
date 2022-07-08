@@ -14,3 +14,4 @@ All the problem solved in JAVA
 * [ ] Checked
 * [x] not checked
 * [ ] Tower of Hanoi (Need to study once more)
+* [ ] Fibonaci Series
