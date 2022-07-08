@@ -11,4 +11,6 @@ All the problem solved in JAVA
 
 
 ## TODO Need to study again
-[] Tower of Hanoi
+* [ ] Checked
+* [x] not checked
+* [ ] Tower of Hanoi (Need to study once more)
