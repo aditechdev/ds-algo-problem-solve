@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
+      <change afterPath="$PROJECT_DIR$/src/algorithim/practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/binaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maths/lcm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,26 +40,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.fibonacci_series">
-    <configuration name="areaOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="normal_problem.areaOfCircle" />
+  <component name="RunManager" selected="Application.binaryToDecimal">
+    <configuration name="binaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.binaryToDecimal" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="normal_problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="factorial_pmi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithim.factorial_pmi" />
-      <module name="problem_solve_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithim.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +67,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gcd_euclidean_algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithim.gcd_euclidean_algorithm" />
+    <configuration name="lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maths.lcm" />
+      <module name="problem_solve_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithim.practise" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.binaryToDecimal" />
+        <item itemvalue="Application.lcm" />
+        <item itemvalue="Application.practise" />
         <item itemvalue="Application.fibonacci_series" />
         <item itemvalue="Application.print_n_number" />
-        <item itemvalue="Application.factorial_pmi" />
-        <item itemvalue="Application.gcd_euclidean_algorithm" />
-        <item itemvalue="Application.areaOfCircle" />
       </list>
     </recent_temporary>
   </component>
