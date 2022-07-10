@@ -15,3 +15,4 @@ All the problem solved in JAVA
 * [x] not checked
 * [ ] Tower of Hanoi (Need to study once more)
 * [ ] Fibonaci Series
+* [ ] Geometric progression
