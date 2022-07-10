@@ -1,5 +1,9 @@
 package array;
 
+import javafx.scene.transform.Scale;
+
+import java.util.Scanner;
+
 public class arrayDemo {
     public static void arrayPractice(){
         int[] arr = {2,4,19,184,37};
@@ -21,8 +25,27 @@ public class arrayDemo {
         System.out.println("Last number of array "+arr[arr.length-1]);
 //
     }
+//   print an array
+    static void printArray(int[] arr){
+        for (int x: arr
+             ) {
+            System.out.println(x + " ");
+
+        }
+    }
+
     public static void main(String[] args) {
 //        arrayPractice();
+//        Create array using new
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+
+        for(int i = 0; i<n; i++){
+            int element = sc.nextInt();
+            arr[i] = element;
+        }
+        printArray(arr);
 
     }
 }
