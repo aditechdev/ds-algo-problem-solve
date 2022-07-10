@@ -39,7 +39,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.arrayDemo">
+  <component name="RunManager" selected="Application.passByValue">
     <configuration name="arrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.arrayDemo" />
       <module name="problem_solve_java" />
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci_series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithim.fibonacci_series" />
+    <configuration name="lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maths.lcm" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithim.*" />
+          <option name="PATTERN" value="maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.lcm" />
+    <configuration name="passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.passByValue" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maths.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.passByValue" />
         <item itemvalue="Application.arrayDemo" />
         <item itemvalue="Application.binaryToDecimal" />
         <item itemvalue="Application.lcm" />
         <item itemvalue="Application.practise" />
-        <item itemvalue="Application.fibonacci_series" />
       </list>
     </recent_temporary>
   </component>
