@@ -43,8 +43,18 @@ public class binaryToDecimal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+
 //        System.out.println(binaryToDec(n));
 //        System.out.println(decimalToBinary(n));
-        System.out.println(magicNumber(n));
+//        System.out.println(magicNumber(n));
+        for (int i = 0; i<=n;i++){
+//            Binary to Decimal
+//            System.out.print(binaryToDec(i) + ", ");
+//            Decimal to Binary
+//        System.out.print(decimalToBinary(i) + ", ");
+//            Magic Number
+            System.out.print(magicNumber(i) + ", ");
+
+        }
     }
 }
