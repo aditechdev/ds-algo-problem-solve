@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid" />
+    <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/twoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/twoDArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maths/lcm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/lcm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/areaOfCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/areaOfCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/binaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/binaryToDecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/check_vowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/check_vowel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/number_of_digit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/number_of_digit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/palindrome_check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/palindrome_check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/prime_number_between_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/prime_number_between_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/printPrimeByMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/printPrimeByMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/print_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/print_table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normal_problem/reverse_of_n_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/reverse_of_n_number.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,13 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.twoDArray">
     <configuration name="arrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.arrayDemo" />
@@ -50,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="binaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.binaryToDecimal" />
+    <configuration name="basic.maths.lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.maths.lcm" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="basic.maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maths.lcm" />
+    <configuration name="binaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.binaryToDecimal" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maths.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,7 +123,7 @@
         <item itemvalue="Application.passByValue" />
         <item itemvalue="Application.arrayDemo" />
         <item itemvalue="Application.binaryToDecimal" />
-        <item itemvalue="Application.lcm" />
+        <item itemvalue="Application.basic.maths.lcm" />
       </list>
     </recent_temporary>
   </component>
