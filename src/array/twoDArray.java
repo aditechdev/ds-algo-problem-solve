@@ -17,6 +17,12 @@ public class twoDArray {
     int[] arr = {1, 2,6, 9, 19, 23, 48};
         Scanner sc = new Scanner(System.in);
         int key = sc.nextInt();
-        System.out.println(linearSearch(arr,key));
+        int res =  linearSearch(arr,key);
+        if(res == -1){
+            System.out.println("Element not found");
+        }else {
+            System.out.println("Element is present at index: "+res);
+        }
+
     }
 }
