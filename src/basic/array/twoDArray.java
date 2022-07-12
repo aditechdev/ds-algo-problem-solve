@@ -2,6 +2,10 @@ package basic.array;
 
 import java.util.Scanner;
 
+/**
+ * If data is sorted use binary search
+ * If data is not sorted use linear search
+ */
 public class twoDArray {
     // return index of x in the basic.array, or return -1
     static int linearSearch(int[] arr, int q) {
@@ -97,6 +101,21 @@ public class twoDArray {
 
     }
 
+    static  int binarySearchRecursion(int[] arr, int s, int e, int key){
+        if(s>e){
+            return -1;
+        }
+        int mid = (s+e)/2;
+        if (arr[mid] == key){
+            return mid;
+        }
+        if(arr[mid] > key){
+            return  binarySearchRecursion(arr, s, mid-1, key);
+        }
+        return  binarySearchRecursion(arr, mid +1, e, key);
+
+    }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int key = sc.nextInt();
@@ -104,8 +123,9 @@ public class twoDArray {
         int[] arr2 = {1, 2, -1, -1, -3, 23, 48};
         int[] sortedArrayList = {1,2,5,7,9,13,24,34,39,54};
         int[] repeatElementArrayList = {1,2,4,8,11,11, 11, 11,7,9,13,24,34,39,54};
-        System.out.println(binarySearchFirstOccurrence(repeatElementArrayList,key));
-        System.out.println(binarySearchLastOccurrence(repeatElementArrayList,key));
+        System.out.println(binarySearchRecursion(repeatElementArrayList, 0, repeatElementArrayList.length-1,key));
+//        System.out.println(binarySearchFirstOccurrence(repeatElementArrayList,key));
+//        System.out.println(binarySearchLastOccurrence(repeatElementArrayList,key));
 //        System.out.println(binarySearch(sortedArrayList,key));
 
 //        linearSearchAll(arr2, key);
