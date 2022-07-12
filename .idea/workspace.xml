@@ -6,19 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/twoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/twoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maths/lcm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/lcm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/areaOfCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/areaOfCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/binaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/binaryToDecimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/check_vowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/check_vowel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/number_of_digit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/number_of_digit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/palindrome_check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/palindrome_check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/prime_number_between_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/prime_number_between_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/printPrimeByMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/printPrimeByMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/print_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/print_table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/random.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normal_problem/reverse_of_n_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/maths/normal_problem/reverse_of_n_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/array/twoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/array/twoDArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +31,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -51,13 +40,58 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.twoDArray">
-    <configuration name="arrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.arrayDemo" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="basic" />
+      <recent name="pattern_problem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.basic.array.twoDArray">
+    <configuration name="basic.array.arrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.array.arrayDemo" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="basic.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basic.array.binaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.array.binaryToDecimal" />
+      <module name="problem_solve_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basic.array.passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.array.passByValue" />
+      <module name="problem_solve_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basic.array.twoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.array.twoDArray" />
+      <module name="problem_solve_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,51 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="binaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.binaryToDecimal" />
-      <module name="problem_solve_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="passByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.passByValue" />
-      <module name="problem_solve_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="twoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.twoDArray" />
-      <module name="problem_solve_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.twoDArray" />
-        <item itemvalue="Application.passByValue" />
-        <item itemvalue="Application.arrayDemo" />
-        <item itemvalue="Application.binaryToDecimal" />
+        <item itemvalue="Application.basic.array.twoDArray" />
+        <item itemvalue="Application.basic.array.passByValue" />
+        <item itemvalue="Application.basic.array.arrayDemo" />
+        <item itemvalue="Application.basic.array.binaryToDecimal" />
         <item itemvalue="Application.basic.maths.lcm" />
       </list>
     </recent_temporary>
