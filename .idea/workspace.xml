@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
-      <change beforePath="$PROJECT_DIR$/src/basic/array/twoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/array/twoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/array/insertArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="pattern_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.basic.array.twoDArray">
+  <component name="RunManager" selected="Application.insertArray">
     <configuration name="basic.array.arrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.array.arrayDemo" />
       <module name="problem_solve_java" />
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basic.maths.lcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.maths.lcm" />
+    <configuration name="insertArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.array.insertArray" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.maths.*" />
+          <option name="PATTERN" value="basic.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.insertArray" />
         <item itemvalue="Application.basic.array.twoDArray" />
         <item itemvalue="Application.basic.array.passByValue" />
         <item itemvalue="Application.basic.array.arrayDemo" />
         <item itemvalue="Application.basic.array.binaryToDecimal" />
-        <item itemvalue="Application.basic.maths.lcm" />
       </list>
     </recent_temporary>
   </component>
@@ -154,5 +155,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Full Numeric Pyramid" />
     <option name="LAST_COMMIT_MESSAGE" value="Full Numeric Pyramid" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
