@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
-      <change afterPath="$PROJECT_DIR$/src/basic/array/insertArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/twoDArray/twoDArrayPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,22 +46,9 @@
       <recent name="pattern_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.insertArray">
+  <component name="RunManager" selected="Application.twoDArrayPractice">
     <configuration name="basic.array.arrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.array.arrayDemo" />
-      <module name="problem_solve_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basic.array.binaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.array.binaryToDecimal" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="twoDArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.twoDArray.twoDArrayPractice" />
+      <module name="problem_solve_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.twoDArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.twoDArrayPractice" />
         <item itemvalue="Application.insertArray" />
         <item itemvalue="Application.basic.array.twoDArray" />
         <item itemvalue="Application.basic.array.passByValue" />
         <item itemvalue="Application.basic.array.arrayDemo" />
-        <item itemvalue="Application.basic.array.binaryToDecimal" />
       </list>
     </recent_temporary>
   </component>
