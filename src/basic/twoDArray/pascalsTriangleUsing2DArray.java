@@ -2,8 +2,22 @@ package basic.twoDArray;
 
 import java.util.Scanner;
 
-public class pascalsTriangle {
-
+public class pascalsTriangleUsing2DArray {
+    /**
+     * This will form pascals triangle like below
+     * <pre>
+     * 1
+     * 1 1
+     * 1 2 1
+     * 1 3 3 1
+     * </pre>
+     *
+     *
+     * @param  n Enter No of Rows, eg: 4
+     * @return  array
+     * @since   2022
+     * @author  Aditya
+     */
     static int[][] pascalsTriangle(int n){
         int[][] arr = new int[n][];
 
