@@ -36,6 +36,24 @@ public class twoDArrayPractice {
         }
         return arr;
     }
+
+    static int[][] create2dArrayWithVariableColumn(){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter no of rows");
+        int row = sc.nextInt();
+//        int column = sc.nextInt();
+        int[][] arr = new int[row][];
+        for (int i = 0; i < row ; i++) {
+            System.out.println("Enter Number of Column in current rows");
+            int column_in_current_row = sc.nextInt();
+            arr[i] = new int[column_in_current_row];
+            for (int j = 0; j < column_in_current_row; j++) {
+                arr[i][j] = sc.nextInt();
+            }
+
+        }
+        return arr;
+    }
     static void displayArray(int[][] arr){
         for (int i = 0; i < arr.length; i++) {
             int column_in_each_rows = arr[i].length;
@@ -49,7 +67,8 @@ public class twoDArrayPractice {
     public static void main(String[] args) {
 //        Hardcoded Array
 //        hardCodedArray();
-        int[][] arr = create2dArray();
+//        int[][] arr = create2dArray();
+        int[][] arr = create2dArrayWithVariableColumn();
 //        jagged Array: Variable no of columns
         displayArray(arr);
 
