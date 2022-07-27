@@ -22,7 +22,6 @@ public class PlayWithString {
 
 
         while (index != -1){
-            System.out.println();
             System.out.println(index);
             index = paragraph.indexOf(word, index+1);
         }
