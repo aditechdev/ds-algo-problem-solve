@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
-      <change afterPath="$PROJECT_DIR$/src/basic/string/StringDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/string/PlayWithString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/string/PlayWithString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +47,26 @@
       <recent name="pattern_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringDemo">
+  <component name="RunManager" selected="Application.PlayWithString">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.arrayList.ArrayListDemo" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="basic.arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayWithString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.string.PlayWithString" />
+      <module name="problem_solve_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoDArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.twoDArray.twoDArrayPractice" />
-      <module name="problem_solve_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.twoDArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlayWithString" />
         <item itemvalue="Application.StringDemo" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.pascalsTriangleUsing2DArray" />
         <item itemvalue="Application.basic.twoDArray.WaveTraversal" />
-        <item itemvalue="Application.basic.twoDArray.twoDArrayPractice" />
       </list>
     </recent_temporary>
   </component>
