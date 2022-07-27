@@ -19,9 +19,22 @@ import java.util.ArrayList;
 
 public class ArrayListDemo {
     public static void main(String[] args) {
-
-        ArrayList<Integer> arrayListNew = new ArrayList<>();
+        // We use Integer and not int as it's a wrapper class
+        ArrayList<Integer> arrayListNew = new ArrayList<>(100);
         arrayListNew.add(5);
+        arrayListNew.add(6);
+        arrayListNew.add(7);
+        arrayListNew.add(9);
+        arrayListNew.add(10);
+        arrayListNew.add(2, 10);
+        Integer hereisObj = 6;
+        arrayListNew.remove(hereisObj);
+
+        for (int i = 0; i < arrayListNew.size(); i++) {
+            System.out.println(arrayListNew.get(i));
+
+        }
+
     }
 
 }

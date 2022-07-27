@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
-      <change afterPath="$PROJECT_DIR$/src/basic/arrayList/ArrayListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/arrayList/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/arrayList/ArrayListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/twoDArray/WaveTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/twoDArray/WaveTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/twoDArray/pascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/twoDArray/pascalsTriangleUsing2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +48,13 @@
       <recent name="pattern_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pascalsTriangleUsing2DArray">
-    <configuration name="basic.array.twoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.array.twoDArray" />
+  <component name="RunManager" selected="Application.ArrayListDemo">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arrayList.ArrayListDemo" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.array.*" />
+          <option name="PATTERN" value="basic.arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.pascalsTriangleUsing2DArray" />
         <item itemvalue="Application.basic.twoDArray.WaveTraversal" />
         <item itemvalue="Application.basic.twoDArray.twoDArrayPractice" />
         <item itemvalue="Application.insertArray" />
-        <item itemvalue="Application.basic.array.twoDArray" />
       </list>
     </recent_temporary>
   </component>

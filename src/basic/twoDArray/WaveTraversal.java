@@ -12,11 +12,12 @@ package basic.twoDArray;
  */
 public class WaveTraversal {
     static void disPlayWaveTraversal(int[][] arr){
+        /**
+         *  @param flag we can also use odd even instead of flag, named flag
+         */
         boolean flag = false;
         for (int i = 0; i < arr.length ; i++) {
-            /**
-             * we can also use odd even instead of flag
-             */
+
             if (flag == false) {
                 for (int j = 0; j < arr[i].length; j++) {
                     System.out.print(arr[i][j]+ " ");
