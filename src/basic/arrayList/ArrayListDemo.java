@@ -13,7 +13,7 @@ import java.util.ArrayList;
  * ArrayList is wrapper over array
  *
  * @author Aditya Anand
- * @<code>Hello:</code> No
+ *
  *
  */
 

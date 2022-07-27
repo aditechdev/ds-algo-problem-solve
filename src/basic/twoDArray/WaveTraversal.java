@@ -3,9 +3,9 @@ package basic.twoDArray;
 /**
  * WaveTraversal
  *
- * ⬇1 ⬆2⤵ 3 ⬆4
- * ⬇5 ⬆4 ⬇6 ⬆9
- * ⬇5⤴ 5 ⬇8⤴ 6
+ * 1 2 3 4
+ * 5 4 6 9
+ * 5 5 8 6
  *
  * Print Number in Wave form
  * 1 5 5 5 4 2 3 6 8

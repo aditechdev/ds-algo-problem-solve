@@ -3,7 +3,7 @@ package basic.string;
 public class StringDemo {
     public static void main(String[] args) {
         String s  = "Hello";
-        String greetings = "नमस्ते दुनिया";
+        String greetings = "HelloHello";
         System.out.println(greetings);
         // Iterate over the 0 letter
         greetings.charAt(0);
