@@ -14,24 +14,15 @@ public class ProductDemo {
 //        System.out.println(p1.seller);
 
         p1.print();
-        Dog d1 = new Dog();
-        d1.name = " Scooby";
-        d1.breed = "Rotwiller";
-        d1.Size = 10;
-        d1.bark();
+
     }
 
 }
 
-class Dog{
-    String breed;
-    int Size;
-    String name;
 
-    void bark(){
-        System.out.println("Woof Woof");
-    }
-}
+
+
+
 
 class Product{
     String name;
