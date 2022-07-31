@@ -3,9 +3,18 @@ package basic.oopsDemo.oopsDogs;
 public class DogJAVA {
    String name;
    int hunger;
+   static  int count; // Static variable can be get from anywhere
+   // We use class name to access the static variable not the name
 
    DogJAVA(){
       System.out.println("Making a dog");
+      count++;
+   }
+   DogJAVA(String name){
+      this();
+      this.name = name;
+      System.out.println("Naming the Dog");
+
    }
    DogJAVA(String name, int hunger){
       this(); // this will call the default constructor first
@@ -13,6 +22,11 @@ public class DogJAVA {
       this.name = name;
      this.hunger = hunger;
       System.out.println("Initialising the dog");
+   }
+   // Static method will work with other static methods/variable
+   // It will give an error with static method / variables.
+   static int getCount(){
+      return count;
    }
 
    void introduce(){

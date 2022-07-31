@@ -5,8 +5,10 @@ public class DogTest {
         DogJAVA dj = new DogJAVA("Cody", 10);
         dj.introduce();
 
-//        DogJAVA d2 = new DogJAVA();
-//        d2.introduce();
+
+        DogJAVA d2 = new DogJAVA("Dobly");
+        d2.introduce();
+        System.out.println(DogJAVA.count);
 
     }
 }
