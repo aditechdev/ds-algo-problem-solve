@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
+      <change afterPath="$PROJECT_DIR$/src/basic/arrayList/LexicographicOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/oopsDemo/DodJAVA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/oopsDemo/game/GameLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/oopsDemo/game/GameLauncher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <recent name="pattern_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GameLauncher">
+  <component name="RunManager" selected="Application.LexicographicOrder">
     <configuration name="DogDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.oopsDemo.DogDemo" />
       <module name="problem_solve_java" />
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayWithString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.string.PlayWithString" />
+    <configuration name="LexicographicOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arrayList.LexicographicOrder" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.string.*" />
+          <option name="PATTERN" value="basic.arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LexicographicOrder" />
         <item itemvalue="Application.GameLauncher" />
         <item itemvalue="Application.DogDemo" />
         <item itemvalue="Application.ProductDemo" />
         <item itemvalue="Application.StringBuilderDemo" />
-        <item itemvalue="Application.PlayWithString" />
       </list>
     </recent_temporary>
   </component>
