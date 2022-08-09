@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
+      <change afterPath="$PROJECT_DIR$/src/basic/oopsDemo/AccessModifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/oopsDemo/learnEncapsulation/EncapsulationDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/DogJAVA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/DogJAVA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/DogTest.java" afterDir="false" />
@@ -48,13 +50,13 @@
       <recent name="pattern_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DogTest">
-    <configuration name="DogDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.oopsDemo.DogDemo" />
+  <component name="RunManager" selected="Application.AnimalTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.oopsDemo.oopsDogs.animalDemo.AnimalTest" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.oopsDemo.oopsDogs.*" />
+          <option name="PATTERN" value="basic.oopsDemo.oopsDogs.animalDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.DogTest" />
         <item itemvalue="Application.LexicographicOrder" />
         <item itemvalue="Application.GameLauncher" />
-        <item itemvalue="Application.basic.oopsDemo.DogDemo" />
-        <item itemvalue="Application.basic.oopsDemo.ProductDemo" />
       </list>
     </recent_temporary>
   </component>

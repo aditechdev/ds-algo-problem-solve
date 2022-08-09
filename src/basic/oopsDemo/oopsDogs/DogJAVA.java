@@ -6,6 +6,8 @@ public class DogJAVA {
    static  int count; // Static variable can be get from anywhere
    // We use class name to access the static variable not the name
 
+   private int age;
+
    DogJAVA(){
       System.out.println("Making a dog");
       count++;
@@ -21,12 +23,23 @@ public class DogJAVA {
       // Use this.instance_variable to access the class variable(to clear the ambiguity)
       this.name = name;
      this.hunger = hunger;
+
       System.out.println("Initialising the dog");
    }
    // Static method will work with other static methods/variable
    // It will give an error with static method / variables.
    static int getCount(){
       return count;
+   }
+   int getAge(){
+      return  age;
+   }
+   void setAge(int age){
+      if (age < 0){
+         this.age = 5;
+      }else{
+         this.age = age;
+      }
    }
 
    void introduce(){
