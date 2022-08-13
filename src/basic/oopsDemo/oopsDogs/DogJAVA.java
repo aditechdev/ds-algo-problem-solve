@@ -15,7 +15,7 @@ public class DogJAVA {
    DogJAVA(String name){
       this();
       this.name = name;
-      System.out.println("Naming the Dog");
+      System.out.println("Naming the Dogeee");
 
    }
    DogJAVA(String name, int hunger){
