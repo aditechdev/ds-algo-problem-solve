@@ -16,3 +16,7 @@ All the problem solved in JAVA
 * [ ] Tower of Hanoi (Need to study once more)
 * [ ] Fibonaci Series
 * [ ] Geometric progression
+
+
+Compare Graph
+https://www.desmos.com/calculator
