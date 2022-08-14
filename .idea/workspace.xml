@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e7affd-c82b-4a11-b51d-9b903512bf20" name="Changes" comment="Full Numeric Pyramid">
-      <change afterPath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/animalDemo/Dogeee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/problems/LittlePonyProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/problems/PrimeNUmber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediate/problems/SquareRoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/DogJAVA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/DogJAVA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/animalDemo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/animalDemo/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/animalDemo/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/animalDemo/AnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/animalDemo/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/oopsDemo/oopsDogs/animalDemo/Lion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
       <recent name="pattern_problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigIntDemo">
+  <component name="RunManager" selected="Application.SquareRoot">
     <configuration name="BigIntDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.BigIntDemo" />
       <module name="problem_solve_java" />
@@ -67,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.oopsDemo.oopsDogs.DogTest" />
+    <configuration name="PrimeNUmber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate.problems.PrimeNUmber" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.oopsDemo.oopsDogs.*" />
+          <option name="PATTERN" value="intermediate.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LexicographicOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.arrayList.LexicographicOrder" />
+    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intermediate.problems.SquareRoot" />
       <module name="problem_solve_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.arrayList.*" />
+          <option name="PATTERN" value="intermediate.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquareRoot" />
+        <item itemvalue="Application.PrimeNUmber" />
         <item itemvalue="Application.BigIntDemo" />
         <item itemvalue="Application.practice" />
         <item itemvalue="Application.basic.oopsDemo.oopsDogs.animalDemo.AnimalTest" />
-        <item itemvalue="Application.DogTest" />
-        <item itemvalue="Application.LexicographicOrder" />
       </list>
     </recent_temporary>
   </component>
